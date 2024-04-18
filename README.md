@@ -53,7 +53,7 @@ I am a passionate and dedicated computer science graduate with a strong backgrou
 
 - **University of Nottingham** | Mar 2024 – Present | Data Science Boot Camp 
 - **University of Reading** | Sep 2020 – Jul 2023 | BSc (Hons) Computer Science | 2:1 
-- **College of North West London** | Sep 2018 – Jul 2020 | Level 3 BTEC Extended Diploma In IT | Distinction*: Distinction*: Distinction*
+- **College of North West London** | Sep 2018 – Jul 2020 | Level 3 BTEC Extended Diploma In IT | D* D* D*
 
 ---
 
