@@ -1,12 +1,5 @@
 # Batoul Sbat
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-
 📧 batoul.sbat99@gmail.com | 📞 +44 7708416666 | [LinkedIn](https://www.linkedin.com/in/batoul-sbat99) | Reading, UK
 
 ---
